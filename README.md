@@ -1,4 +1,4 @@
-# Spam Email Detection (pyhton)
+# Spam Email Detection 
 
 This project is a simple machine learning program that detects whether an email message is spam or not. It uses a dataset of labeled emails to train a model and then predicts the category of new messages.
 
